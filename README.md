@@ -5,5 +5,8 @@
 
 Com dedicação e empenho, aprimorei minhas habilidades em UI/UX design, adquirindo conhecimento sobre a importância da usabilidade, da hierarquia visual e da criação de experiências agradáveis para o usuário. Além disso, mergulhei nos princípios do design responsivo, garantindo que meu portfólio se adaptasse perfeitamente a diferentes dispositivos e tamanhos de tela. </p>
 
+
+viniciuzsk.github.io
+
 <img class="perfil" src="img/Preview.png" alt="foto">
 
